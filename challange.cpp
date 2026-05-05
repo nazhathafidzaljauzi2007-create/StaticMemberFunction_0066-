@@ -24,7 +24,7 @@ public:
     Produk(int Pid) {
         id = Pid;
         nama = "Meja";
-    }
+    }    
 
     // Constructor dengan parameter nama
     Produk(string Pnama) {
