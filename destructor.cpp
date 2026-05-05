@@ -43,7 +43,7 @@ void angka::isiData()
         cin >> arr[i];
     }
     cout << endl;
-}
+}  
 int main()
 {
     angka belajarcpp(3);                // Constructor Dipanggil
