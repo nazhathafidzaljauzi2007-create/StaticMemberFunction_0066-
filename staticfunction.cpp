@@ -48,7 +48,7 @@ int main() {
     //memberi nilai pada setNim() untuk merubah nilai NIM
     Mahasiswa::setNim(9);
     Mahasiswa mhs3("Andi Janu");
-    Mahasiswa mhs4("Joko Wahono");
+    Mahasiswa mhs4("Joko Wahono");   
 
     //memanggil prosedur printAll()
     mhs1.printAll();
