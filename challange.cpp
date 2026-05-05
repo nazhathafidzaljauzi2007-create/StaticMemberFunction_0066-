@@ -36,7 +36,7 @@ public:
     Produk(int Pid, string Pnama) {
         id = Pid;
         nama = Pnama;
-    }
+    }  
 };
 
 int main() {
