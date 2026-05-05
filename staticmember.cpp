@@ -13,10 +13,11 @@ public:
     void setID();
     void printAll();
 
-    // pembuatan construct
+    // pembuatan constructor mahasiswa dengan parameter pnama
+    // member initialize list
+    Mahasiswa(string pnama) : nama(pnama)
     {
-        cout << "ID : " << id << endl;
-        cout << "Nama : " << nama << endl;
-        cout << "NIM : " << nim << endl;
+        setID();
     }
-}
+};
+
