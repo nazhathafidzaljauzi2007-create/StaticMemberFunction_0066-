@@ -43,7 +43,7 @@ void Mahasiswa::printAll() {
 int main() {
     //pembuatan object dan pemberian nilai
     Mahasiswa mhs1("Sri Dadi");
-    Mahasiswa mhs2("Budi Jatmiko");
+    Mahasiswa mhs2("Budi Jatmiko");   
 
     //memberi nilai pada setNim() untuk merubah nilai NIM
     Mahasiswa::setNim(9);
