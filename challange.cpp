@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-class Produk {
+class Produk {       
 private:
     int id;
     string nama;
