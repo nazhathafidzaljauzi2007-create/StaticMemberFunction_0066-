@@ -18,7 +18,7 @@ public:
     Produk() {
         id = 14;
         nama = "Baju";
-    }
+    }   
 
     // Constructor dengan parameter id
     Produk(int Pid) {
