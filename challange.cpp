@@ -30,7 +30,7 @@ public:
     Produk(string Pnama) {
         id = 1;
         nama = Pnama;
-    }
+    }    
 
     // Constructor dengan parameter lengkap
     Produk(int Pid, string Pnama) {
